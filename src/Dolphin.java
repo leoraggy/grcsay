@@ -6,8 +6,10 @@ public class Dolphin implements Animal{
                 "     (\\_.-'    a`-.\r\n" + 
                 "jgs  (/~~````(/~^^`";
     }
+
+    // https://www.asciiart.eu/animals/dolphins
     @Override
     public String toString(){
-        return "cow";
+        return "dolphin";
     }
 }

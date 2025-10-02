@@ -3,7 +3,7 @@ class Dog implements Animal {
   @Override
   public String getAnimalArt(){
     return 
-//By Maija Haavisto https://www.asciiart.eu/animals/dogs
+// By Maija Haavisto https://www.asciiart.eu/animals/dogs
 
 "        \\   .\n" +
 "         \\  ..^____/\n" +
